@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+ background-image: url(img/spidermancielo.jpeg);  
+}
+
+h1{
+  padding: 20px;
+  text-align: center;
+  color:  white;
+  font-size: 2.5rem;
+}
+
+h2{
+  color: #D93730;
+}
+form {
+  width: 40vw;
+  margin: auto;
+  background-color: #243A4E;
+  padding: 10px;
+  color: white;
+
+}
+
+h2{
+  color: #D93730;
+}
+
+#pelicula{
+  border-left:2px solid black;
+  border-right:2px solid black ;
+}
+
+#pelicula input {
+  margin-top: 10px;
+
+}
+
+
+#usuario{
+  border-left:2px solid black;
+  border-top: 2px solid black;
+  border-right:2px solid black ;
+}
+
+#mensaje {
+  border-left:2px solid black;
+  border-right:2px solid black ;
+  border-left:2px solid black;
+  border-bottom:2px solid black ;
+  font-size: 1.2rem;
+}
